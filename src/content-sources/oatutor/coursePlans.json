@@ -26,6 +26,18 @@
                 "learningObjectives": {
                     "module_b": 0.85
                 }
+            },
+            {
+                "id": "3Pmnug8X-xsFr-PE4JhlgObT",
+                "name": "Lesson Bonding",
+                "topics": "Shape Polarity (Module C)",
+                "allowRecycle": false,
+                "showStuMastery": false,
+                "doMasteryUpdate": false,
+                "keepMCOrder": true,
+                "learningObjectives": {
+                    "module_c": 0.85
+                }
             }
         ]
     }

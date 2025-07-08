@@ -33,7 +33,7 @@ function BrandLogoNav({ isPrivileged = false, noLink = false }) {
                 {brandString}
             </div>
             :
-            <div role={"link"} tabIndex={0} onClick={navigateLink} onKeyDown={navigateLink}
+            <div role={"link"} tabIndex={0} onKeyDown={navigateLink}
                  className={classes.siteNavLink}>
                 {brandString}
             </div>
