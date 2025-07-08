@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-Chem1AMidtermReview/static/css/main.f70029f8.css",
-    "main.js": "/OATutor-Chem1AMidtermReview/static/js/main.67a33477.js",
+    "main.js": "/OATutor-Chem1AMidtermReview/static/js/main.8e58b734.js",
     "static/media/Symbola.svg": "/OATutor-Chem1AMidtermReview/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-Chem1AMidtermReview/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-Chem1AMidtermReview/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-Chem1AMidtermReview/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Chem1AMidtermReview/index.html",
     "main.f70029f8.css.map": "/OATutor-Chem1AMidtermReview/static/css/main.f70029f8.css.map",
-    "main.67a33477.js.map": "/OATutor-Chem1AMidtermReview/static/js/main.67a33477.js.map"
+    "main.8e58b734.js.map": "/OATutor-Chem1AMidtermReview/static/js/main.8e58b734.js.map"
   },
   "entrypoints": [
     "static/css/main.f70029f8.css",
-    "static/js/main.67a33477.js"
+    "static/js/main.8e58b734.js"
   ]
 }
